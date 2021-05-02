@@ -1,0 +1,73 @@
+h1 {
+  color: blueviolet;
+  margin: 30px;
+  font-family: "Kaushan Script", cursive;
+  font-size: 30px;
+}
+h3.activity {
+  font-family: "Kaushan Script", cursive;
+  color: coral;
+  margin: 30px;
+}
+span.time {
+  color: blue;
+}
+span.degree {
+  position: relative;
+  bottom: 6px;
+  right: 3px;
+  font-size: 10px;
+}
+a.celsius {
+  text-decoration: none;
+}
+
+a.celsius:hover {
+  text-decoration: underline;
+}
+a.fahrenheit {
+  text-decoration: none;
+}
+a.fahrenheit:hover {
+  text-decoration: underline;
+}
+img {
+  width: 200px;
+  position: relative;
+  top: -110px;
+  right: -300px;
+}
+.row {
+  margin: 0;
+  position: relative;
+  top: -100px;
+  font-family: "Train One", cursive;
+  font-size: 20px;
+}
+.dropdown {
+  text-align: right;
+  margin-top: -150px;
+}
+.container {
+  background-color: blanchedalmond;
+  max-width: 800px;
+  margin: 20px auto;
+}
+.hiking {
+  color: blue;
+  font-size: 60px;
+  padding: 20px;
+}
+.running {
+  color: green;
+  font-size: 60px;
+}
+.shopping {
+  color: pink;
+  font-size: 60px;
+}
+button.btn-success {
+  position: relative;
+  left: 260px;
+  bottom: 30px;
+}
